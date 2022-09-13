@@ -16,9 +16,10 @@ li{
   transition: all ease;
 }
 li:hover {
-  background-color: #ced7e0;
-
+  background-color: #d8e1e8;
+  
   border-radius: 2px;
+  
 }
 
 body {
