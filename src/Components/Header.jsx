@@ -8,8 +8,7 @@ function Header() {
   const [menuOpen, setMenuOpen] = useState(false)
   
 
-  const cars = useSelector(selectCars)
-  alert(cars)
+
   return (
     <Container>
 
