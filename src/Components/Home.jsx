@@ -15,7 +15,7 @@ function Home() {
   
   return (
     <Container>
- 
+
 {sectionComponent}
   
     </Container>
